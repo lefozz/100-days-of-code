@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Ellen Forrow
 
-The log of my #100DaysOfCode challenge. Started on Septemeber 17, 2018
+The log of my #100DaysOfCode challenge. Started on September 17, 2018
 
 ## Log
 
