@@ -10,3 +10,6 @@ Worked out Github - restarted freecodecamp curriculum. finished Basic Javascript
 ### R1D2: 18/09/2018 
 Started ES6 section in freeCodeCamp. Progressed to lesson: ES6: Use the Spread Operator to Evaluate Arrays In-Place. Finding it hard to get my head around.
 
+### R1D3: 20/09/2018 
+Started ES6 section in freeCodeCamp. Slowly getting my head around. Can't wait toget through this cert.
+
